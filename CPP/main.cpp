@@ -2,7 +2,6 @@
 // Description: This file is the software portion of the
 // Canny Edge Detection algorithm implemented on the FPGA
 
-
 #include <iostream>
 #include <cstdlib>
 #include <cassert>
