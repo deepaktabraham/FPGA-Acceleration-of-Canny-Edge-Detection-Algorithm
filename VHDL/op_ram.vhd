@@ -130,4 +130,3 @@ begin
     end process;
 
 end SYNC_READ;
-
