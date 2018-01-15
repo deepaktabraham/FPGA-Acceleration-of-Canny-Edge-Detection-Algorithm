@@ -9,6 +9,6 @@ Canny Edge Detection Algorithm is a multi-stage algorithm to detect wide range o
 
 
 ### Directory Structure
-VHDL code for hardware implementation of algorithm is in the **VHDL** directory.
-CPP code for software implementation of algorithm is in the **CPP** directory.
+VHDL code for hardware implementation of algorithm is in the **VHDL** directory.<br />
+CPP code for software implementation of algorithm is in the **CPP** directory.<br />
 MATLAB scripts to convert image to text and vice versa is in the **MATLAB** directory.
