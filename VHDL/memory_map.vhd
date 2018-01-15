@@ -1,6 +1,3 @@
--- Greg Stitt
--- University of Florida
-
 -- Entity: memory_map
 -- This entity establishes connections with user-defined addresses and
 -- internal FPGA components (e.g. registers and blockRAMs).
