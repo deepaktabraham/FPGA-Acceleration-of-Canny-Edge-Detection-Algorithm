@@ -1,6 +1,3 @@
--- Greg Stitt
--- University of Florida
-
 -- Description:
 -- The ram entity implements a ram with a standard 1-read port, 1-write port
 -- interface. The ram is configurable in terms of data width (width of each
