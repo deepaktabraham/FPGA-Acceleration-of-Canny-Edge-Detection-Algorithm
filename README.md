@@ -7,6 +7,7 @@ Canny Edge Detection Algorithm is a multi-stage algorithm to detect wide range o
 * Apply double threshold to determine potential edges
 * Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and not connected to strong edges. 
 
+
 ### Directory Structure
 VHDL code for hardware implementation of algorithm is in the **VHDL** directory.
 CPP code for software implementation of algorithm is in the **CPP** directory.
